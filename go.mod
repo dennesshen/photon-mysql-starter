@@ -1,4 +1,4 @@
-module photon-mysql-starter
+module github.com/dennesshen/photon-mysql-starter
 
 go 1.23.0
 
